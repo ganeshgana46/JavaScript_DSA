@@ -14,6 +14,7 @@ function sumOfNaturalNumber(num){
         sum = sum + i;
     }
     return sum;
+    //return num * (num + 1)/2
 }
 
 console.log(sumOfNaturalNumber(5)); // 15
